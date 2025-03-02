@@ -1,0 +1,15 @@
+F:\first app\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+F:\first app\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+F:\first app\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+F:\first app\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\first app\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+F:\first app\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+F:\first app\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+F:\first app\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+F:\first app\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+F:\first app\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+F:\first app\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+F:\first app\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+F:\first app\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+F:\first app\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+F:\first app\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
